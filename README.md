@@ -4,7 +4,6 @@ Copy the Key
 Open content.js file from the repository
 Paste the Key on the first line of the code
 Save the changes
-
 Now open any chromium based browser
 Go to manage extensions
 Switch (toggle) on Developer mode (it's on the top right corner of the window)
